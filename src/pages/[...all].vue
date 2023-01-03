@@ -1,5 +1,7 @@
 <template>
-  404.
+  <div class="">
+    <p class="font-bold text-9xl">404</p>
+  </div>
 </template>
 
 <script>
